@@ -37,6 +37,8 @@ Answer:
 
 ```python
 
+# See extraction_scraping_assignment.ipynb under notebooks
+
 ```
 
 ## Submission
